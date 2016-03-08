@@ -2,6 +2,7 @@ var i;
 function image_click(sender){
   document.getElementById('overlay-container').style.display = "block";
   document.getElementById('password').value = "";
+  password.focus();
   i = sender;
   // overlay.style.display = "block";
   // sender.style.display = "none";
