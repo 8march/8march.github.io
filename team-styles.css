@@ -77,7 +77,8 @@ h1{
   z-index: 50;
   width: 400px;
   font-family: Airport, sans-serif;
-  font-size: 30px;
+  font-size: 80px;
+  color: white;
 }
 
 .password_form input[type = "password"]{
