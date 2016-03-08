@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Calligraph';
+    src: local('Calligraph  Medium'), local('Calligraph-Medium'), url('font/calligraphmedium.woff2') format('woff2'), url('font/calligraphmedium.woff') format('woff'), url('font/calligraphmedium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1{
+  font-family: Calligraph, serif;
+  font-size: 40px;
+}
+
+.link-container {
+  display: inline-block;
+}
+
+body{
+  text-align: center;
+}
+
+a{
+  display: block;
+  width: 145px;
+  height: 250px;
+  border: 2px solid #777;
+  border-radius: 10px;
+  /*background: url(2.jpg) no-repeat;*/
+}
+
+#link1{
+  background: url("images/image (1).jpg") no-repeat;
+  margin-right: 40px;
+}
+
+#link2{
+  background: url("images/image (2).jpg") no-repeat;
+  margin-left: 50px;
+}
