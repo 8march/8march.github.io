@@ -7,7 +7,7 @@
 
 h1{
   font-family: Calligraph, serif;
-  font-size: 40px;
+  font-size: 75px;
 }
 
 .link-container {
@@ -28,11 +28,11 @@ a{
 }
 
 #link1{
-  background: url("images/image (1).jpg") no-repeat;
+  background: url("images/link (1).jpg") no-repeat;
   margin-right: 40px;
 }
 
 #link2{
-  background: url("images/image (2).jpg") no-repeat;
+  background: url("images/link (2).jpg") no-repeat;
   margin-left: 50px;
 }

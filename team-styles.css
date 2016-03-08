@@ -17,6 +17,7 @@ html {
 }
 body {
     height: 100%;
+    background-color: #ffdada;
 }
 
 .video{
@@ -37,6 +38,12 @@ h1{
 .video video{
   width: 400px;
   height: 300px;
+}
+
+.video{
+  border: 3px solid gray;
+  border-radius: 10px;
+  margin: 10px;
 }
 
 .overlay-container{
